@@ -1,6 +1,7 @@
 # CMPE250 Projects
 
 This repository contains projects and implementations from the **CMPE 250**, where I learned essential concepts of **Data Structures and Algorithms (DSA)**, including sorting methods, graphs, and problem-solving techniques.
+All of the data structures used in the projects are manually implemented by myself, only used built-in ArrayList structure in Java. 
 
 ## Overview
 
